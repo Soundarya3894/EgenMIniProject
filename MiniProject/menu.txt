@@ -1,0 +1,3 @@
+025,Burger,Grilled Chicken Burger,$4.78
+021,Salad,Ceaser Salad,$5.62
+020,Sandwich,Grilled Cheese,$3.99
